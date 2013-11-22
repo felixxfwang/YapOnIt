@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- for application -->
+    <string name="app_name">YapOnIt</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- for login page -->
+    <string name="no_username_and_password">Please enter a username and password.</string>
+    <string name="login_failed">Please reenter your username and password.</string>
+    <string name="login_failed_title">Login failed</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    
+    <!-- for alert dialog -->
+    <string name="ok_button_text">OK</string>
+    <string name="stay_button_text">Stay</string>
+    <string name="leave_button_text">Leave</string>
+
+    <!-- for welcome page -->
+    <string name="welcome">, you are amazing!</string>
+    <string name="QA">Thanks for being awesome and using our Q&amp;A platform. Before you get started, want to view a short, one-page tutorial?</string>
+    <string name="tutorial">Show me the tutorial!</string>
+    <string name="no_thanks">No thanks, I\'ll wing it.</string>
+
+    <!-- for questions page -->
+    <string name="questions">Questions</string>
+    <string name="byData">By Date</string>
+    <string name="byVotes">By Votes</string>
+    <string name="unanswered">Unanswered</string>
+    <string name="hint_message">Your message</string>
+    <string name="menu">menu</string>
+    <string name="help">Help</string>
+    <string name="load_more">Show more questions</string>
+
+    <!-- for answer page -->
+    <string name="back_button_text">Back</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="review_button_text">Review</string>
+    <string name="text_answer">Text Answer</string>
+    <string name="audio_answer">Audio Answer</string>
+    <string name="no_answer_title">No answer</string>
+    <string name="no_answer_text1">"Submit" was selected without answering the question.</string>
+    <string name="no_answer_text2">Do you want to stay here and answer or go back to the questions?</string>
+    <string name="forget_submit_title">Did you forget to submit?</string>
+    <string name="forget_submit_text1">If you leave without submitting, your message will be lost forever.</string>
+    <string name="forget_submit_text2">Do you want to stay or leave?</string>
+    <string name="submit_title">Submitting your answer</string>
+    <string name="submit_text">Should only take a few seconds...</string>
+    <string name="timer_text">00:00.00</string>
+
+    <!-- for tutorial -->
+    <string name="tutorial_title">Tutorial</string>
+    <string name="tutorial_done">Done</string>
+
+</resources>

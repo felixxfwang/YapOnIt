@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_deep_blue" >#5D95B2</color>
+    <color name="answer_blue">#DEF1FC</color>
+    <color name="app_light_blue" >#F1F1F1</color>
+    <color name="audio_answer_pink">#B96180</color>
+</resources>

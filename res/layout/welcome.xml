@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#5D95B2"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/login_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:contentDescription="@string/app_name"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/firstname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:lineSpacingExtra="5dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="#FFF"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="5dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/QA"
+        android:textColor="#FFF"
+        android:textSize="13sp"
+        android:typeface="sans" />
+
+    <Button
+        android:id="@+id/tutorial_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:gravity="center"
+        android:text="@string/tutorial"
+        android:textColor="#FFF" />
+
+    <Button
+        android:id="@+id/no_thanks_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:gravity="center"
+        android:text="@string/no_thanks"
+        android:textColor="#FFF" />
+
+</LinearLayout>
